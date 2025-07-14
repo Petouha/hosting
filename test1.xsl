@@ -4,3 +4,4 @@
 <xsl:value-of select="php:function('readfile','beers.xml')" />
 </body>
 </html>
+
